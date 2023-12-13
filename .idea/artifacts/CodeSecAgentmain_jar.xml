@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CodeSecAgentmain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CodeSecAgentmain_jar</output-path>
+    <root id="archive" name="CodeSecAgentmain.jar">
+      <element id="module-output" name="CodeSecAgentmain" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../jdk1.8/lib/tools.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
